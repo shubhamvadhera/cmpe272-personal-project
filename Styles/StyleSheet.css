@@ -1,0 +1,181 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 22, 2015, 11:34:10 AM
+    Author     : Shubham
+*/
+
+body {
+    font-family: lucida grande, tahoma, verdana, arial, sans-serif;
+    background-color:#333;
+    background-image: url(../Images/max_payne_large.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body p {
+    font-size: 0.8em;
+    color:floralwhite;
+    line-height: 1;
+}
+
+#wrapper
+{
+    width: 100%;
+
+}
+
+#bannerContainer
+{
+    height: 200px;
+}
+#banner
+{
+    background-image: url(../Images/hulk_large.jpg);
+    background-position: left 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    //border: 5px solid #dedede;
+    width: 80%;
+    height: 200px;
+    float: right;
+    //border: black solid 60px;
+}
+
+#logo
+{
+    width: 20%;
+    float: left;
+    background-image: url(../Images/DextrouS-logo.png);
+    height: 200px;
+    background-size: cover;
+}
+
+#content_area
+{
+    float: left;
+    width: 100%;
+    margin: 20px 0 20px 0;
+    font-size: 2.0em;
+    color: bisque;
+    //padding: 10px;
+}
+
+#content_area a:link, nav a:active nav a:visited
+{
+    display: block;
+    color: white;
+    text-decoration: none;
+
+}
+
+#content_area a:hover
+{
+    color: lightblue;
+}
+
+/*#sidebar
+{
+    float: left;
+    width: 250px;
+    height: 400px;
+    margin: 20px 10px;
+    padding: 10px;
+    border: 2px solid #e3e3e3;
+}*/
+
+footer
+{
+    clear: both;
+    width: auto;
+    height: 40px;
+    //padding: 10px;
+    border: 3px solid #e3e3e3;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0.1em 0.1em #333;
+}
+
+#navigation
+{
+    height: 60px;
+    border: 3px black solid;
+    //margin-top: 20px;
+    text-shadow: 0.1em 0.1em #333;
+    background-color: white;
+    //background-size: cover;
+
+}
+
+#nav
+{
+    list-style: none;
+}
+
+#nav ul
+{
+    margin: 0;
+    //padding: 0;
+    width: auto;
+    display: none;
+}
+
+#nav li
+{
+    font-size: 24px;
+    font-family:cursive;
+    float:left;
+    position: relative;
+    width: 14.28%;
+    height: 50px;
+    //color:gold;
+}
+
+#nav a:link, nav a:active nav a:visited
+{
+    display: block;
+    color: darkred;
+    text-decoration: none;
+
+}
+
+#nav a:hover
+{
+    color: lightblue;
+}
+
+.product_body {
+    background-image: url(../Images/nfs_large.jpg);
+}
+
+.user_wrap {
+    width: 100%;
+    overflow:auto;
+    padding:2px 2px;
+    color: black;
+}
+
+.user_left {
+    float:left; 
+    width: 33%;
+    height: 400px;
+}
+
+.user_center{
+    float:left;
+    width: 33%;
+    height:400px;
+}
+
+.user_right {
+    float: right;
+    height: 400px;
+    width: 33%;
+}
+
+.user_body {
+    background-image: url(../Images/user.jpg);
+}

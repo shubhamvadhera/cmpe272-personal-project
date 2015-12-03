@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 1, 2015, 3:27:23 PM
+    Author     : Shubham
+*/
+
+iframe {
+    border: 5px solid #dedede;
+}
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    color: goldenrod;
+    background: rgba(255, 255,255, 0.7);
+    //src: url(https://www.google.com/fonts/specimen/Shadows+Into+Light)
+}
+h2 {
+    font-family: 'Shadows Into Light', cursive;
+    color: chocolate;
+    background: rgba(255, 255,255, 0.7);
+    //src: url(https://www.google.com/fonts/specimen/Shadows+Into+Light)
+}
+
+.gta5{
+    background-image: url(../Images/GTA-5.jpg);
+}
+
+.angry_birds{
+    background-image: url(../Images/angry_birds.png);
+}
+
+.max_payne{
+    background-image: url(../Images/max_payne_pro.jpg);
+}
+
+.fifa_2015{
+    background-image: url(../Images/fifa-2015.jpg);
+}
+
+.call_of_duty{
+    background-image: url(../Images/cod.png);
+}
+
+.sof{
+    background-image: url(../Images/sof.jpg);
+}
+
+.mario_bros{
+    background-image: url(../Images/mario.jpg);
+}
+
+.counter_strike{
+    background-image: url(../Images/cs.jpg);
+}
+.nfs{
+    background-image: url(../Images/nfs_large.jpg);
+}
+
+.urban_chaos{
+    background-image: url(../Images/urban-chaos.jpg);
+}
+
+
+p {
+    //background-color: ghostwhite;
+    //opacity: 0.5;
+    background: rgba(255, 255,255, 0.7)
+}
+
