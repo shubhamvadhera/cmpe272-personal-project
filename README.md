@@ -1,5 +1,5 @@
 # CMPE 272 Personal Project
-####Code for website - http://shubhamvadhera.com/
+####This is the code for the website hosted at http://shubhamvadhera.com/
 
 ##Description
 
