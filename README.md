@@ -1,7 +1,7 @@
-# CMPE 272 Personal Project
-####This is the code for the website hosted at http://shubhamvadhera.com/
+# Website - Dextrous
+#### This is the code for the website hosted at http://shubhamvadhera.com/
 
-##Description
+## Description
 
 This is the website that integrates various exercises and concepts done during the semester. The website provides the following functionalities:
 
